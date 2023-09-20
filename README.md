@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+#Hi I'm Isaac Vahlenkamp and here is a little bit about me
+
+* Currently in my second year of an associates at WNCC
+* Working on A NASA Fellowship VR Project In Unity.
+* Enjoy creating OOP in python currently working on a [tower defender game](https://github.com/Ivahlenkamp/Tower-Defender)
+* 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
