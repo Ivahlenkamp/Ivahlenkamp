@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-#Hi I'm Isaac Vahlenkamp and here is a little bit about me
+### Hi I'm Isaac Vahlenkamp and here is a little bit about me
 
 * Currently in my second year of an associates at WNCC
 * Working on A NASA Fellowship VR Project In Unity.
